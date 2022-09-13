@@ -4,6 +4,9 @@
 Pràctica 1.1
 Anàlisi forense I
 
+![image](https://user-images.githubusercontent.com/97160811/189935594-25ad99fd-58b7-4a99-a619-1e830f504605.png)
+
+
 **Raúl lleida**
 
 **Index de continguts**
